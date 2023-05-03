@@ -73,7 +73,7 @@ export default function Home() {
 						</span>
 					</h2>
 					<p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-						Pratice commit and update code to Github in corsor. NGUYEN MANH HUNGG
+						Pratice commit and update code to Github in corsor. NGUYEN MANH HUNG
 					</p>
 				</a>
 
